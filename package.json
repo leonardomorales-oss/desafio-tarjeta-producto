@@ -1,0 +1,21 @@
+{
+  "name": "desafio-tarjeta-producto",
+  "version": "1.0.0",
+  "description": "Componente de tarjeta de producto responsive utilizando BEM, Sass y Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "keywords": [
+    "html",
+    "sass",
+    "bootstrap",
+    "bem"
+  ],
+  "author": "Leonardo Morales Reyes",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}
