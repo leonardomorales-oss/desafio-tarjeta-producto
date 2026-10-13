@@ -1,37 +1,30 @@
 # Desafío Tarjeta de Producto
 
-Proyecto realizado como parte de un desafío del curso, cuyo objetivo es crear un componente de tarjeta de producto responsive con detalles adicionales en un modal.
+Tarjeta responsive con modal y estilos BEM/Sass.
 
-## Tecnologías utilizadas
+## Tecnologías
 
-- HTML5
+- HTML
 - Sass
-- Bootstrap 4
-- Metodología BEM
-- Git
-- GitHub
+- Bootstrap
+- BEM
 
-## Características
+## Instalación y ejecución
 
-- Componente de tarjeta responsive.
-- Uso de clases con metodología BEM.
-- Estilos organizados con Sass.
-- Modal funcional utilizando Bootstrap.
-- Proyecto gestionado con Git y GitHub.
+```bash
+npm install
+```
 
-## Estructura del proyecto
+```bash
+npm run sass
+```
 
-```text
-desafio-tarjeta-producto/
-├── css/
-│   ├── style.css
-│   └── style.css.map
-├── img/
-│   └── entrega-logistica.png
-├── js/
-│   └── script.js
-├── scss/
-│   └── style.scss
-├── index.html
-├── package.json
-└── README.md
+Abre `index.html` con Live Server.
+
+## Uso
+
+Activa el modal para ver detalles.
+
+## Repositorio
+
+[leonardomorales-oss/desafio-tarjeta-producto](https://github.com/leonardomorales-oss/desafio-tarjeta-producto)
